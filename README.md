@@ -20,7 +20,7 @@ The *Weather API Client* project is a Java application designed to fetch and dis
 1. *temperature*
 2. *full weather reports* or 
 3. *additional details - like humidity*
-4. *wind speed and
+4. *wind speed* and
 5. *pressure* 
 
 By handling the HTTP request, parsing the JSON response, and displaying the data in a user-friendly manner, the program ensures that users can easily obtain and understand weather information. Error handling is also incorporated to manage situations like invalid city names or network issues. Overall, the project demonstrates a practical implementation of consuming public APIs, parsing JSON data, and presenting it in a clear and customizable format.
